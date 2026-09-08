@@ -4,14 +4,14 @@ A Machine Learning project that predicts whether two given questions are **dupli
 
 The project uses Natural Language Processing (NLP) techniques and a **Random Forest Classifier** to compare two questions based on various text similarity and linguistic features.
 
-## 🚀 Live Demo
+##  Live Demo
 
 The application is deployed using Streamlit Community Cloud.
 
 **Live App:**  
 https://duplicate-question-prediction.streamlit.app/
 
-## 📌 Project Overview
+##  Project Overview
 
 Duplicate questions are questions that have different wording but have the same or very similar meaning.
 
@@ -30,7 +30,7 @@ The application takes two questions as input and predicts:
 - `1` → Duplicate
 - `0` → Not Duplicate
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 
 The project uses **Natural Language Processing (NLP)** and feature engineering to convert text into numerical features.
 
@@ -80,7 +80,7 @@ A CountVectorizer is used to convert the processed questions into numerical vect
 
 The final feature vector contains **6022 features**.
 
-## 🤖 Model
+##  Model
 
 The project uses:
 
